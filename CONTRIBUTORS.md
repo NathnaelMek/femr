@@ -59,3 +59,5 @@ Thank you to everyone who has contributed to fEMR's design and implementation:
 * [Tushar Rakheja](https://github.com/tusharrakheja)
 * [Osman Ghoni](https://github.com/osmanghoni1)
 * [Adam Molner](https://github.com/adammolner)
+* [TwistedAlex](https://github.com/TwistedAlex)
+* [ebenolad](https://github.com/ebenolad)
